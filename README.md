@@ -1,2 +1,2 @@
 # minor-project
-This is a Bank Management System 
+This is a Bank Account Management System minor project.
